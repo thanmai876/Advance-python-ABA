@@ -1,4 +1,4 @@
-public class Calculator {
+public class addsub {
 
     public static void main(String[] args) {
         // Define two built-in numbers
